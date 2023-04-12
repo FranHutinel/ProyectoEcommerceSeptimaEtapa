@@ -1,4 +1,4 @@
-Javascript-fullstack-Proyecto Sexta etapa Tercera etapa de proyecto final perteneciente al curso Javascript Fullstack.
+Javascript-fullstack-Proyecto Séptima etapa de proyecto final perteneciente al curso Javascript Fullstack.
 
 La entrega consiste en utilizar una combinación de herramientas y tecnologías, como Sequelize, pg, Express, Express-handlebars, Postgres y Tailwind CDN, para crear una página web de comercio electrónico. La aplicación permite realizar operaciones CRUD en el inventario, ver ventas y visualizar y comprar productos. Con estas funcionalidades, este proyecto es una demostración sólida de cómo se pueden utilizar estas tecnologías para crear aplicaciones web escalables y robustas en Node.js.
 
@@ -26,8 +26,9 @@ Autor: Mariela Ochoa
 
 GitHub
 
-https://github.com/FranHutinel/ProyectoEcommerceSextaEtapa.git
+https://github.com/FranHutinel/ProyectoEcommerceSeptimaEtapa.git
 
+npm i
 npm run dev http://localhost:3000/
 
 
